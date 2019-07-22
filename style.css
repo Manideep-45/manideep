@@ -1,0 +1,14 @@
+html{
+   scroll-behavior:  smooth-scroll
+
+.fixed-nav-bar{
+    position:fixed
+}
+element.style {
+    height: 657px;
+    background-position: 50% 50%;
+}
+.viewheight{
+    height:90vh;
+}
+    
